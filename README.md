@@ -1,6 +1,6 @@
 # 🧮 iOS Calculator Clone
 
-A pixel-perfect iPhone calculator clone built with SwiftUI, featuring modern glassmorphism design and robust MVVM architecture. This project demonstrates advanced iOS development skills with clean code practices and contemporary design patterns.
+A pixel-perfect iPhone calculator clone built with SwiftUI, featuring modern glassmorphism design and robust MVVM architecture. This project demonstrates intermediate iOS development skills with clean code practices and contemporary design patterns.
 
 ## ✨ Features
 
@@ -25,10 +25,6 @@ A pixel-perfect iPhone calculator clone built with SwiftUI, featuring modern gla
 - ✅ **Reactive programming** (@Published properties)
 - ✅ **Reusable components** (single button handles all types)
 - ✅ **Clean code structure** (well-documented and maintainable)
-
-## 📱 Screenshots
-
-*Screenshots coming soon - showcasing the beautiful glassmorphism interface and operation display*
 
 ## 🛠️ Technical Stack
 
@@ -83,7 +79,7 @@ A pixel-perfect iPhone calculator clone built with SwiftUI, featuring modern gla
 
 ## 👨‍💻 About the Developer
 
-Built by **Rishi Selarka** as a demonstration of iOS development skills.
+Built by **Rishi Selarka** as a demonstration of intermediate iOS development skills.
 
 **Connect with me:**
 - 🐙 GitHub: [@Rishi-Selarka](https://github.com/Rishi-Selarka)
@@ -93,4 +89,4 @@ Built by **Rishi Selarka** as a demonstration of iOS development skills.
 
 ⭐ **Star this repository if it helped you learn iOS development!**
 
-*Last updated: December 2024*
+*Last updated: June 2025*
