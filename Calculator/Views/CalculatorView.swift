@@ -204,7 +204,7 @@ struct CalculatorView: View {
             .padding(.bottom, 0)                   // No bottom padding - touch the bottom
             .background(Color.black)               // Black background like iPhone
         }
-        .background(Color.yellow)                   // Entire calculator background
+        .background(Color.black)                   // Entire calculator background
         .ignoresSafeArea(.all)                     // Fill entire screen including bottom
     }
 }
