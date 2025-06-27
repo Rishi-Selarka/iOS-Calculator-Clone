@@ -8,4 +8,3 @@ struct ContentView: View {
 
     }
 }
-// Terminal workflow demo
